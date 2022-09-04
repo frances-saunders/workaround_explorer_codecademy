@@ -1,3 +1,6 @@
+//This script fulfills the project reqs for "WorkAround Explorer" in Codecademy
+//This script is to be used in conjunction with index.html, main.js, workAroundModule.js, and utilities.js
+
 const salaryData = [
   { role: 'CTO', company: 'Big Data Inc.', salary: 320000},
   { role: 'Technical Lead', company: 'Big Data Inc.', salary: 230000},
