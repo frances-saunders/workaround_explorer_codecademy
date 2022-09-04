@@ -1,3 +1,6 @@
+//This script fulfills the project reqs for "WorkAround Explorer" in Codecademy
+//This script is to be used in conjunction with index.html, main.js, salaryData.js, and utilities.js
+
 // Add your imports here.
 import { getDataByRole, getDataByCompany } from "./salaryData.js";
 import salaryData from "./salaryData.js";
