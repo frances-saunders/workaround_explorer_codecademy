@@ -1,3 +1,6 @@
+//This script fulfills the project reqs for "WorkAround Explorer" in Codecademy
+//This script is to be used in conjunction with index.html, workAroundModule.js, salaryData.js, and utilities.js
+
 // TODO: Add your import statements here.
 import {getRoles, getCompanies} from './modules/salaryData.js'
 import {getAverageSalaryByRole, getAverageSalaryByCompany, getSalaryAtCompany, getIndustryAverageSalary} from './modules/workAroundModule.js';
