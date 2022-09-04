@@ -1,3 +1,6 @@
+//This script fulfills the project reqs for "WorkAround Explorer" in Codecademy
+//This script is to be used in conjunction with index.html, main.js, salaryData.js, and workAroundModule.js
+
 /* modules/utilities.js */
 export const formatNumber = number => {
   // Get rid of the decimals and convert to a string.
